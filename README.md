@@ -5,5 +5,5 @@ Learning
 # First Commit
 new text
 
-#second commmit 
-some more new text 
+# Second Commmit 
+adding some more new text 
